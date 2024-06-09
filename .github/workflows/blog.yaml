@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@d27ccd7d66af00cbd2178c31d7c74de04cc2850b
         with:
-          feed_list: "https://blog.rmtph.one/feed.xml/"
+          feed_list: "https://blog.rmtph.one/feed.xml"
