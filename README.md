@@ -1,8 +1,10 @@
+# Howdy 🤠
+
 ## Hi there 👋
 
 Hello!
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Notetaking and Copilot](https://blog.rmtph.one/posts/Notetaking_and_Copilot/)
 - [CyberDefenders - EscapeRoom](https://blog.rmtph.one/posts/CyberDefenders_EscapeRoom/)
